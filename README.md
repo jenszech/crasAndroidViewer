@@ -39,7 +39,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Jens Zech** - *Initial work* - [GitHub Profil](https://github.com/jenszech)
 * **Vladimir Ignjatijevic** - *Main contributor* - [GitHub Profil](https://github.com/vignjatijevic)
 
-See also the list of [contributors](https://github.com/julienP88/kras/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/jenszech/crasAndroidViewer/contributors) who participated in this project.
 
 ## License
 
